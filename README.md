@@ -1,6 +1,6 @@
 # 🔎 AI Research Agent – Internship Assignment
 
-This project is a simple **AI Research Assistant** built as part of my internship take-home task.
+This project is a simple AI Research Assistant.
 
 It takes a user query, finds relevant sources online, extracts their content, summarizes it using an LLM, saves the results into a database, and provides a Streamlit web UI to view current and past reports.
 
@@ -82,15 +82,8 @@ They complement each other but serve distinct purposes.
 🤝 AI Assistance
 
 I used AI help (ChatGPT) for:
-
-Setting up the project structure
-
 Debugging .env issues
-
 Replacing OpenAI GPT with Groq LLaMA-3
-
-Drafting this README
-
 All core implementation and testing were done by me.
 
 📌 Tech Stack
