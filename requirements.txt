@@ -1,0 +1,7 @@
+streamlit
+requests
+trafilatura
+pypdf
+python-dotenv
+serpapi
+groq

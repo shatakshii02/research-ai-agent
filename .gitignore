@@ -1,0 +1,34 @@
+# 🔑 Environment variables
+.env
+
+# 🗄️ Databases (local SQLite)
+data/
+*.db
+
+# 🐍 Python cache / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# 📦 Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# 📑 Logs
+*.log
+
+# 📂 Streamlit specific cache
+.streamlit/
+.streamlit_cache/
+.streamlit-secrets.toml
+
+# 📄 Jupyter/Notebooks
+*.ipynb_checkpoints
+
+# 🗑️ OS/system files
+.DS_Store
+Thumbs.db
